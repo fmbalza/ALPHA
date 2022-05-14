@@ -1,4 +1,4 @@
-# hg_1_bravo
+# HG_1_Golf
 
 |Nombre|Ubicación|Alias|
 |------|---------|-----|
